@@ -1,0 +1,10 @@
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Release\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Release\Jogo_da_Velha.pdb
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.Form1.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.Instrução.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.Multiplayer.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.Nickname.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.csproj.GenerateResource.Cache
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Release\Jogo_da_Velha.pdb

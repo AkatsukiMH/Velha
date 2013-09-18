@@ -1,0 +1,79 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Multiplayer.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Nickname.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Form1.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Multiplayer.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Nickname.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
+C:\Users\mathou\Videos\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csprojResolveAssemblyReference.cache
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csprojResolveAssemblyReference.cache
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Form1.resources
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Multiplayer.resources
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Nickname.resources
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\h4r01d\Desktop\Jogo da Velha\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csprojResolveAssemblyReference.cache
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Form1.resources
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Instrução.resources
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Multiplayer.resources
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Nickname.resources
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\mathou\Videos\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Form1.resources
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Instrução.resources
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Multiplayer.resources
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Nickname.resources
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csprojResolveAssemblyReference.cache
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Form1.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Instrução.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Multiplayer.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Nickname.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\mathou\Videos\Jogo da Velha\Jogo da Velha\atual\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.About.resources
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Form1.resources
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.History.resources
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Instrução.resources
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Multiplayer.resources
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Nickname.resources
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+E:\IFSP\PJS\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
